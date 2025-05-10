@@ -11,7 +11,7 @@ class AppTheme {
     scaffoldBackgroundColor: whiteBackground,
     primaryColor: neonPink,
     colorScheme: ColorScheme.light(primary: neonPink, secondary: neonYellow),
-    textTheme: GoogleFonts.pacificoTextTheme().apply(
+    textTheme: GoogleFonts.poppinsTextTheme().apply(
       bodyColor: Colors.black,
       displayColor: Colors.black,
     ),
