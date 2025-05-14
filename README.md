@@ -39,6 +39,7 @@ contains various  versions of bibles and hymns songs books where a congragant ca
 - Logout and account preferences.
 
 ---
+   ![bible](https://github.com/user-attachments/assets/d258d4f3-cf28-44a8-a096-ff2890511308)
 
 ## 🛠️ Getting Started
 
@@ -48,8 +49,6 @@ contains various  versions of bibles and hymns songs books where a congragant ca
    cd bethsaida_app
    flutter pub get
    flutter run
-
-   ![bible](https://github.com/user-attachments/assets/d258d4f3-cf28-44a8-a096-ff2890511308)
 
 
 
