@@ -39,7 +39,8 @@ contains various  versions of bibles and hymns songs books where a congragant ca
 - Logout and account preferences.
 
 ---
-   ![bible](https://github.com/user-attachments/assets/d258d4f3-cf28-44a8-a096-ff2890511308)
+
+![bible](https://github.com/user-attachments/assets/f8425d1c-1801-41df-a786-e87c45c6b2b6)
 
 ## 🛠️ Getting Started
 
