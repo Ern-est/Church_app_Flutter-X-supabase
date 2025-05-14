@@ -38,6 +38,11 @@ dependencies:
   flutter_carousel_slider: ^1.1.0
   image_picker: ^1.1.2
   http: ^1.1.0
+  smooth_page_indicator: ^1.0.0
+  supabase_flutter: ^2.9.0
+  intl_phone_field: ^3.2.0
+  sms_autofill: ^2.3.0
+
 
   # Other
   shared_preferences: ^2.2.3
@@ -71,6 +76,9 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/bibles/kjv.json
+    - assets/onboarding1.jpg
+    - assets/onboarding2.webp
+    - assets/onboarding3.jpg
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
